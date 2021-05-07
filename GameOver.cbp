@@ -51,7 +51,6 @@
 		<Unit filename="CApp.h" />
 		<Unit filename="CApp_onEvent.cpp" />
 		<Unit filename="CApp_onInit.cpp" />
-		<Unit filename="CApp_onLoop.cpp" />
 		<Unit filename="CApp_onQuit.cpp" />
 		<Unit filename="CApp_onRender.cpp" />
 		<Unit filename="CEvent.cpp" />

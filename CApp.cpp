@@ -1,5 +1,5 @@
 #include "CApp.h"
-
+//Make it myself
 CApp::CApp()
 {
    running = true;
@@ -36,7 +36,6 @@ int CApp::onExecute()
         }
 
         onRender();
-
     }
 
     onQuit();
