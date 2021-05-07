@@ -36,7 +36,7 @@ int CApp::onExecute()
         }
 
         onRender();
-        onLoop();
+
     }
 
     onQuit();

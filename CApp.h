@@ -47,7 +47,6 @@ private:
     int score_draw;
 
     bool onInit();
-    void onLoop();
     void onRender();
     void onQuit();
 
